@@ -39,7 +39,7 @@ public class NotificationConfig {
         javaMailSender.setHost("smtp.gmail.com");
         javaMailSender.setPort(587);
         javaMailSender.setUsername("jdbl2951@gmail.com");
-        javaMailSender.setPassword("dwxn iohe pnow fwju");////update pasword check in file ----- removing due security purpose
+        ////update pasword check in file ----- removing due security purpose
 
 
         
